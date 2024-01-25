@@ -19,4 +19,4 @@ NOTE: Seems to be windows only. I was unable to recreate on a mac.
 - Update `package-b` to `vite` version 5.0.12
 - Run `pnpm i`
 - Run build command in package-b
-  - You should get a `Module not found` error
+  - You should get a `Cannot find module` error
